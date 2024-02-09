@@ -1,0 +1,22 @@
+body{background-color: antiquewhite;}
+.flexcontainer{display: flex; align-items: center; justify-content: center;}
+.flexcontainer > div {
+background-color:whitesmoke;
+margin: 30px;
+padding: 40px;
+width: 300px;
+height: 150px;
+align-items: center;
+justify-self: center;
+border-color:burlywood;border-style: groove;border-width: 20px}
+
+.flexcontainer2{display: flex; align-items: center; justify-content: center;}
+.flexcontainer2 > div {
+    background-color:whitesmoke;
+    margin: 30px;
+    padding: 40px;
+    width: 300px;
+    height: 150px;
+    align-items: center;
+    justify-self: center;
+    border-color:burlywood;border-style: groove;border-width: 20px}
